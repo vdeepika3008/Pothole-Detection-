@@ -1,4 +1,4 @@
-# Pothole-Detection-
+
 # Pothole Detection System using Raspberry Pi
 
 ## Introduction
